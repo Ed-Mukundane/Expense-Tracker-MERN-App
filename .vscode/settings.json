@@ -1,0 +1,13 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.hover.delay": 500,
+    "files.autoSaveDelay": 1,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "emmet.showAbbreviationSuggestions": false,
+    "editor.formatOnPaste": true,
+    "editor.wordWrap": "on"
+}
